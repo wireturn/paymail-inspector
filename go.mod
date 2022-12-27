@@ -13,7 +13,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mrz1836/go-sanitize v1.1.5
+	github.com/mrz1836/go-sanitize v1.2.0
 	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.9.0
