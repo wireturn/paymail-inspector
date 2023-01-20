@@ -14,9 +14,10 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mrz1836/go-sanitize v1.1.5
+	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/spf13/cobra v1.2.1
-	github.com/spf13/viper v1.9.0
+	github.com/spf13/viper v1.15.0
 	github.com/tonicpow/go-paymail v0.2.12
 	github.com/ttacon/chalk v0.0.0-20160626202418-22c06c80ed31
 )
